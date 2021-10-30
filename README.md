@@ -7,5 +7,5 @@
 
 效果图如下：
 
-![image](https://github.com/Thuantanon/Tetrics/blob/master/image/tetrics.jpg)
+![image](https://gitee.com/1057180911/Tetrics/blob/master/image/tetrics.jpg)
 
